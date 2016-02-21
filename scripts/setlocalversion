@@ -185,7 +185,7 @@ else
 	if test "${LOCALVERSION+set}" != "set"; then
 		scm=$(scm_version --short)
 		if test "$CONFIG_TIPSY_EXTRAVERSION" = "y"; then
-		res="_TipsyOS_1.0"
+		res="_Tipsy_Custom_Drink"
 		else
 		res="$res"
 		fi
